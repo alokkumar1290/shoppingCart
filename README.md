@@ -55,7 +55,4 @@ To see how you can add code snippets, see below:
 
 **Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
 
-## Author
 
-- Website - [DawidGawronskiDev](https://dawidgawronskidev.github.io/personal-portfolio/)
-- Frontend Mentor - [DawidGawronskiDev](https://www.frontendmentor.io/profile/DawidGawronskiDev)
