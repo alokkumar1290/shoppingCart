@@ -31,10 +31,5 @@ To see how you can add code snippets, see below:
 - Cart should no be active in Checkout.
 - "Remove All" button in Cart is not working
 
-### Useful resources
-
-- [The Odin Project](https://www.theodinproject.com/) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-
-**Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
 
 
