@@ -22,14 +22,8 @@
 
 I have learned to use react hooks such as: useState, useEffect and useContext.
 
-To see how you can add code snippets, see below:
 
-### Things to be fixed
 
-- Picture elements are not quite working. I have to fix them later.
-- If I open a popup (let's say a Module), other popup have to be disabled.
-- Cart should no be active in Checkout.
-- "Remove All" button in Cart is not working
 
 
 
